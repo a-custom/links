@@ -51,7 +51,40 @@
 
 .social img {
   max-width: 25px;
-  margin-right: 10px;
+  margin-bottom: 5px;
+  margin-right: 5px;
+}
+
+.social img .vk {
+
+}
+
+.social img .fb {
+  fill: blue;
+}
+
+.social img .li {
+  
+}
+
+.social img .gh {
+  
+}
+
+.social img .sk {
+  
+}
+
+.social img .mail {
+  
+}
+
+.social img .yt {
+  
+}
+
+.social img .inst {
+  
 }
 
 .unstyled-list {
